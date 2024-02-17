@@ -1,6 +1,5 @@
 Proton Blockchain Grant Proposal
 	
-
 Project Name: Game Research and Development 
 Team Name: W3 Digital Design ltd
 Payment Address: Tobinalan
@@ -80,67 +79,52 @@ Constructing digital twins of major buildings. HS2(UK), Google HQ London are som
 Family history in engineering and problem-solving  
 2.5-year apprenticeship learning about all things gaming technology using DLT and smart contracts to bring to Proton.
 
-### Roadmap
-
-Develop Unreal Engine Plug in 
-Finish current Game mechanics and Contracts
-Build environment modules. 
-Build 3d Assets for entire game 30 approx.
-Create Webpage for game and leaderboard. 
-Integrate with existing proton project website. 
-Run and diagnostics on tournament.
-Set up Marketplace hosting site and maintain. 
-Set up Proton Node(Potentially Block Producer)
-Set up marketplace and design and build gaming section. 
-Integrate first game page into marketplace. 
-
-Future steps 
+### Future steps 
 
 Marketplace branding 
 UI updates
 Create flexible Unreal Engine/WebAuth Modal for different profiles in the gaming eco system. 
 Launch marketplace.  
-
-###Milestone 1
--Build an Unreal Engine open-source plugin that can be used to help onboard game developers and studios
--Develop Multiple smart contracts for the game including leaderboard and tournament framework, surprise drop and coin collecting contracts
--Build webpage for game to embed into project website for competition and game launch functions
--Build 10 sci fi hallway modular assets to create a random array of spawning environments 
--Design and build in game assets for obstacle current assets are placeholders for proof of concept.
-Duration 1.5 months
-Cost $20,000
-
-### Milestone 2
-Server hosting site set up and maintenance.
-XPR network node set up block producer.
-Launch marketplace for testing.
-Building gaming section on marketplace
-IPFS account set up and maintenance. 
-Testing and commissioning of marketplace ready for branding
-Cost $20,000
 	
 This will culminate in the launch of a digital asset marketplace and a template for embedding new gaming projects through the research and development game project. We will have smart contracts that new projects can use and be advised on. 
-	
+
+For deliverables and costs see link below
+
+![Deliverables and costs](https://i.imgur.com/wNu9cTJ.jpeg "deliverables and costs")	
+
+### Summary
+
+Total estimated duration: 18 weeks (9 sprints)
+Cost: $37.5k
+
+### Notes
+
+-This breaks the deliverables down into smaller chunks and reduces the risk associated with each
+-This schedule allows us to provide our dev with assurance that there’s pay for 18 weeks providing work is delivered
+-This rolling schedule allows us to work in feedback loops with the Consortium (build → measure → learn)
+
+### Team Competencies 
+
+Our team has already been working together on the gaming proof of concept, marketplace, and they’re familiar with the blockchain and its architecture. This funding is being requested to take this to the next level.
+
+### Other Contributions
+
+In addition to the above, I will be setting up a node to become a block producer on XPR Network to contribute to the ongoing operations and security of the chain.
+
 ### Future Plan
 -Employee a  UI developer during build to help with marketplace 
 -Development and testing of marketplace
 -Develop full gaming Infrastructure to support subnet metaverse growth
-- Build infrastructure to attract creatives, game developers, gamers and community
-
+-Build infrastructure to attract creatives, game developers, gamers and community
 -Integrate with other XPR apps such as Snipverse
 -Use the power of XPR VM on Metal with gaming to develop the emerging digital world.
 	
 ### Additional Information
-Once the marketplace is up and running, we will create a smart contract to replenish the grant fund running at 20% until grant paid back followed by 5% of all future platform earnings. All by smart contract completely trustless.  
-100% uptime on my Metal validator node the last 4 months
+-Once the marketplace is up and running, we will create a smart contract to replenish the grant fund running at 20% until the grant is paid back  
+-100% uptime on my Metal validator node the last 4 months validator Node I.D NodeID-2XRtommcMwVj44xoNvaHvRLHSjkFPfoDy
+-We will create the social channels for the gaming marketplace.
+-We will help the help the project through the competition phase with the game and anything else they need. 
 
-Validator Node I.D
-NodeID-2XRtommcMwVj44xoNvaHvRLHSjkFPfoDy
-
-We will create the social channels for the gaming marketplace.
-
-We will help the help the project through the competition phase with the game and anything else they need. 
-Once the marketplace is up and running, we will create a smart contract to replenish the grant fund running at 20% until grant paid back followed by 5% of all future platform earnings. All by smart contract completely trustless.  
 
 
 
